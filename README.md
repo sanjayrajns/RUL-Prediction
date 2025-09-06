@@ -20,7 +20,7 @@ Model comparison with MSE and R² plots.
 
 # 📊 Visualizations
 1. Battery Cycle Parameters
-We plotted measured voltage, current, temperature, and charge/discharge behaviors during one cycle to understand the raw data.
+Plotted measured voltage, current, temperature, and charge/discharge behaviors during one cycle to understand the raw data.
 
 <img width="726" height="446" alt="image" src="https://github.com/user-attachments/assets/ce668b22-8d58-4fbc-9775-6d09afdbc9d1" />
 
